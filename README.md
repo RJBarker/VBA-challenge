@@ -33,8 +33,8 @@ I also researched and added some additonal formatting to a range of cells:
   - Total Stock Volume formatted as comma seperated to 0 decimal places
 
 ## References
-Example Data supplied by: edX Boot Camps LLC
+  - Example Data supplied by: edX Boot Camps LLC
 
-Percentage change formula checked on: Investopedia (https://www.investopedia.com/terms/p/percentage-change.asp#:~:text=How%20Do%20I%20Calculate%20Percentage,multiply%20that%20number%20by%20100.)
+  - Percentage change formula checked on: Investopedia (https://www.investopedia.com/terms/p/percentage-change.asp#:~:text=How%20Do%20I%20Calculate%20Percentage,multiply%20that%20number%20by%20100.)
 
-Additional formatting: Microsoft VBA Documnetation (https://learn.microsoft.com/en-us/office/vba/api/overview/)
+  - Additional formatting: Microsoft VBA Documnetation (https://learn.microsoft.com/en-us/office/vba/api/overview/)
